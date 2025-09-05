@@ -108,8 +108,8 @@ const { reminiCommand } = require('./commands/remini');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
-global.ytch = "Mr Unique Hacker";
+global.channelLink = "https://chat.whatsapp.com/IGELVVrsZHm4tyx9gr0AjZ?mode=ac_t";
+global.ytch = "Mahikalpa";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
@@ -117,8 +117,8 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterJid: '120363422014379964@newsletter',
+            newsletterName: 'Hoshino MD',
             serverMessageId: -1
         }
     }
